@@ -1,1 +1,3 @@
-alert('Hello World');
+#!/usr/bin/env node
+
+console.log( "Hello World!" );
