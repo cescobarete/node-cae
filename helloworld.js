@@ -1,3 +1,1 @@
-var message = 'Hello World';
-console.log(message);
-console.log(Othermessage);
+alert('Hello World');
