@@ -1,3 +1,3 @@
-#!/usr/bin/index.js
+#!/usr/bin/env node
 
 console.log( "Hello World!" );
